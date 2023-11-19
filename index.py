@@ -1,6 +1,5 @@
-numero1 = 402
+numero1 = 332
 numero2 = 5
-numero3 = 6
-resultado = numero1 * numero2 / numero3
+resultado = numero1 * numero2 
 
 print(resultado)
